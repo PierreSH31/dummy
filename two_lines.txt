@@ -1,0 +1,2 @@
+# Let's try this text file
+# with a counter that initially started at zero : 0000
